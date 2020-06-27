@@ -40,3 +40,14 @@ Header.defaultProps = {
 }
 
 export default Header
+
+// export const query = graphql`
+//   query SiteMeta {
+//     site {
+//       siteMetadata {
+//         title
+//         description
+//       }
+//     }
+//   }
+// `
